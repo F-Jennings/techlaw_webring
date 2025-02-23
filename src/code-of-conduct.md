@@ -7,4 +7,6 @@ title: 'Code of Conduct'
 
 Rules for being in this webring.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed fuga quae labore, at adipisci mollitia consequatur possimus sint dolor corrupti unde aperiam iste cumque repudiandae enim, aliquid optio amet, quo quia. Doloribus eius atque quis. Odit, culpa saepe! Perferendis, ratione. Laboriosam ratione quod doloribus perferendis? Minus sit itaque totam eius.
+1. Member sites should have some connection to the technology legal field, but this should be understood inclusively. If you're doing legal work of any kind that touches on technology/computer issues, please feel free to join.
+2. Members agree that "crypto" means cryptography.
+3. Don't be a jerk.
