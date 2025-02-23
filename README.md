@@ -1,4 +1,4 @@
-#A Tech Law Webring built from the
+# A Tech Law Webring built from the
 ## Webring Starter Kit
 
 Pretend it's 1995, add your website to a [webring](https://en.wikipedia.org/wiki/Webring).  
