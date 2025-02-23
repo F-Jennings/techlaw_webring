@@ -1,13 +1,13 @@
 {
-    "title": "Nerds of the 90s",
-    "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
-    "image": "freakazoid.jpg",
+    "title": "Tech Law Webring",
+    "description": "This is a webring for legal tech practitioners, academics, students, and resource builders.",
+    "image": "electronicmail.jpg",
     "url": "https://webringdemo.netlify.com",
-    "repo": "https://github.com/maxboeck/webring",
+    "repo": "https://github.com/f-jennings/techlaw_webring",
     "admins": [
         {
-            "name": "Max Böck",
-            "url": "https://github.com/maxboeck"
+            "name": "Fred Jennings",
+            "url": "https://github.com/f-jennings"
         }
     ]
 }
